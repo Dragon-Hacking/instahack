@@ -58,7 +58,7 @@ instahack is a bash based script which is officially made to test password stren
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/evildevill/instahack`
+* `git clone https://github.com/Dragon-Hacking/instahack`
 * `cd instahack`
 * `pip install -r requirements.txt`
 * `bash setup`
